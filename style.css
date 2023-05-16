@@ -1,0 +1,85 @@
+
+h1 {
+    border: solid blueviolet;
+    width: 400px;
+    margin-left: 280px;
+    text-align: center;
+    color: rgb(66, 12, 116);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+
+}
+
+input {
+    border: solid;
+    border-color: blueviolet;
+    width: 150px;
+    height: 20px;
+    margin-left: 8px;
+}
+
+button {
+    border: none;
+    background-color: blueviolet;
+    color: rgb(66, 12, 116);
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    width: 150px;
+    height: 30px;
+    margin-left: 15px;
+    margin-top: 10px;
+
+}
+
+
+.left-head {
+    position: absolute;
+    border: solid;
+    color: blueviolet;
+    padding: 10px;
+    width: 350px;
+}
+
+hr {
+    margin-top: 160px;
+    border: none;
+    height: 6px;
+    color: none;
+    background-color: blueviolet;
+}
+
+.row1,.row2,.row3,.row4,.row5,.row6,.row7,.footer {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.endrow {
+   width: 200px;
+   height: 20px;
+   font-size: 20px;
+   border: solid;
+   padding: 4px;
+   margin: 4px;
+   text-align: center;
+   color: blueviolet;
+}
+
+.footer {
+    border: solid;
+    padding: 10px;
+    margin-left: 190px;
+    margin-top: 10px;
+    width: 600px;
+    
+}
+
+
+.heading {
+    border: solid;
+    width: 120px;
+    padding: 4px;
+    margin: 4px;
+    color: blueviolet;
+    text-align: center;
+}
+
